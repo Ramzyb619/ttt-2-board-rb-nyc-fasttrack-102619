@@ -1,4 +1,3 @@
 # Define the variable board below.
-row1 = [ " ", " ", " " ]
+board = [" ", " ", " ", " ", " " ]
 puts row1
-end
